@@ -1,0 +1,10 @@
+project_id = "rilfkpeviowelyyrxyso"
+
+[functions.ai-insights]
+verify_jwt = true
+
+[functions.anomaly-analysis]
+verify_jwt = true
+
+[functions.optimization-recommendations]
+verify_jwt = true
